@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*"
+           Name="PromptEngine Desktop"
+           Language="1033"
+           Version="1.0.0.0"
+           Manufacturer="YourCompany"
+           UpgradeCode="9F1D5F2C-3A2B-4E6D-8A1B-9C5E3D2F1A0B">
+
+    <Package InstallerVersion="500" Compressed="yes" InstallScope="perMachine" />
+
+    <MediaTemplate />
+
+    <Directory Id="TARGETDIR" Name="SourceDir">
+      <Directory Id="ProgramFilesFolder">
+        <Directory Id="INSTALLFOLDER" Name="PromptEngine Desktop" />
+      </Directory>
+    </Directory>
+
+    <Feature Id="ProductFeature" Title="PromptEngine" Level="1">
+      <ComponentGroupRef Id="ProductComponents" />
+    </Feature>
+
+    <UIRef Id="WixUI_Minimal" />
+
+  </Product>
+</Wix>

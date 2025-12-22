@@ -1,0 +1,15 @@
+E:\Repos\Codex_sandbox\TempTest\bin\Debug\net9.0\TempTest.exe
+E:\Repos\Codex_sandbox\TempTest\bin\Debug\net9.0\TempTest.deps.json
+E:\Repos\Codex_sandbox\TempTest\bin\Debug\net9.0\TempTest.runtimeconfig.json
+E:\Repos\Codex_sandbox\TempTest\bin\Debug\net9.0\TempTest.dll
+E:\Repos\Codex_sandbox\TempTest\bin\Debug\net9.0\TempTest.pdb
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.AssemblyInfoInputs.cache
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.AssemblyInfo.cs
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.csproj.CoreCompileInputs.cache
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.sourcelink.json
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.dll
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\refint\TempTest.dll
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.pdb
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\TempTest.genruntimeconfig.cache
+E:\Repos\Codex_sandbox\TempTest\obj\Debug\net9.0\ref\TempTest.dll
